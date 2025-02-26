@@ -2,7 +2,7 @@
 <h2 align='center'>Data Science student at Warsaw University of Technology</h2>
 
 <h2>About Me:</h2>
-<h3>🎓 Currently second-year Data Science student at Warsaw University of Technology</h3>
+<h3>🎓 Currently third-year Data Science student at Warsaw University of Technology</h3>
 <h3>🤓 Interested in Data Analysis and Machine Learning</h3>
 <h3>💃 Folk dancer at the Song and Dance Ensemble Warsaw University of Technology</h3>
 <h3>🌱 Continuously learning new technologies and tools</h3>
